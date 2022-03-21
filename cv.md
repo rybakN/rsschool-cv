@@ -8,17 +8,16 @@
 **GitHub:** rybakN  
 
 
-## About my self  
-Актуальная цель - стать фронт энд разработчиком. Во время обучения всегда нравились предметы, на которых мы изучали языки программирования, но никогда не связывал свою жизнь с этим направлением. 
+## About myself  
+The actual goal is to become a front end developer. During my studies I always liked the subjects we studied programming languages, but I never connected my life with this direction. 
 
-Первый опыт работы - это отработка после колледжа на заводе Интеграл.
+My first work experience was working after college at the Integral plant.
 
-Далее я работал в производственной компании менеджером по продажам. Компания только начинала развиваться на рынке, поэтому у меня была возможность участвовать в построении ее бизнес процесов. Мной была разработана система планирования производства, система учета сырья, а также система расчета стоимости приходящего сырья. Все эти системы были реализованы на базе Google Tables.
+I then worked for a manufacturing company as a sales manager. The company was just beginning to grow in the market, so I had the opportunity to participate in building its business processes. I developed the system of production planning, the system of raw material accounting, as well as the system of calculation of the cost of incoming raw materials. All of these systems were implemented on the basis of Google Tables.
 
-Есть успешный опыт организации собственного бизнеса. Компания занимается проектированием и продажей стеллажного оборудования для складов. При постоении работы, также самостоятельно разрабатывал на базе Google Tables инструменты позволяющие отслеживать доходность бизнеса, затраты и прибыль по проектам. Также внедрил СРМ систему Битрикс24.
+I have successful experience in organizing my own business. The company designs and sells shelving equipment for warehouses. I have also independently developed the tools, based on Google Tables, which allow to track business profitability, expenses and profits on the projects. I also implemented the CRM system Bitrix24.
 
-Моя сильная сторона - находить решение для любой ситуации.
-
+My strength is to find a solution for any situation.
 
 ## Skills  
 * HTML  
